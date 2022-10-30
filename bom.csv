@@ -1,0 +1,14 @@
+"Ref","Quantity","Value","Details"
+"C1, C2, C3","3","100n","2.5mm pitch"
+"D1","1","1N914",
+"J1","1","1x4 pin header",
+"J2, J3, J4","3","DIN5 180° socket","RS 491-087 or Multicomp PSG03463 or Deltron 671-0501"
+"LED1","1","Green",
+"LED2","1","Red",
+"R1, R2","2","180","(or 220)"
+"R3","1","470",
+"R5","1","220",
+"R6, R8","2","33",
+"R7, R9","2","10",
+"U1","1","74HC14",
+"U2","1","H11L1",
